@@ -58,7 +58,7 @@ rm -rf ./openwrt-packages/luci-app-jd-dailybonus
 rm -rf ./openwrt-packages/luci-theme-argon_new
 rm -rf ./openwrt-packages/naiveproxy
 rm -rf ./openwrt-packages/tcping
-
+rm -rf ./openwrt-packages/jd_openwrt_script
 git clone --depth=1 https://github.com/kenzok8/small
 rm -rf ./small/v2ray-plugin
 rm -rf ./small/xray-core
